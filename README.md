@@ -1,1 +1,4 @@
-# Health-Seeking-Behaviour
+# HEALTH-SEEKING-BEHAVIOUR
+## INTRODUCTION
+##### Health
+![GitHub Logo](/images/logo.png)
